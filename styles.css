@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+.container-menu {
+  padding: 10px 38px;
+  display: flex;
+  gap: 14px;
+  justify-content: right;
+}
+.container-vertical {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+
+input[type="text"] {
+}
+
+.container-busca {}
+
+.container-busca {
+  display: flex;
+  justify-content: center;
+  margin: 22px;
+}
+
+.container-icones {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+.ajuste {
+  width: 40%;
+  display: flex;
+  gap: 10px;
+  flex-flow: wrap;
+  justify-content: center;
+}
+.icone i {
+  font-size: 32px;
+}
